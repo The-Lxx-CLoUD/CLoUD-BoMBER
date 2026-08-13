@@ -1,0 +1,50 @@
+باید از مجازی ساز استفاده کنید
+مشکل از python
+
+
+#  نصب پایتون 
+
+install python in website python       # windows
+apt install python                     # Linux
+
+
+
+
+
+
+# ساخت محیط‌ مجازی در پایتون
+
+py -m venv my_env       # windows
+python3 -m venv my_env  # Linux
+
+
+
+
+
+
+
+# فعال کردن محیط‌ مجازی در پایتون
+
+
+.\my_env\Scripts\activate    # windows
+source my_env/bin/activate   # Linux
+
+
+
+
+
+
+ #  خاموش کردنش 
+ 
+deactivate
+
+
+
+
+
+
+
+
+
+
+
