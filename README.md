@@ -21,7 +21,7 @@
 
 
 ```bash
-  git clone https://github.com/TheLxxCLoUD/CLoUD-BoMBER
+  git clone https://github.com/The-Lxx-CLoUD/CLoUD-BoMBER
 ```
 
 
