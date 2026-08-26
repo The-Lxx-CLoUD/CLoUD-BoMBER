@@ -3,9 +3,6 @@
 <img src="\Plugins\demo bomb.gif" alt="demo" width="900">
 
 # CLoUD BoMBER💣
-jdm
-kyz
-kawa
 
 ## قابلیت ها ♦
 
