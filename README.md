@@ -1,7 +1,5 @@
 # DEMO 
 # DEMO 
-# DEMO 
-
 
 <p align="center">
 <img src="\Plugins\demo bomb.gif" alt="demo" width="900">
